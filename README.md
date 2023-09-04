@@ -31,8 +31,8 @@ print("Swapped values are:",x,y)
 
 ```
 # OUTPUT
+![Screenshot 2023-09-05 005537](https://github.com/Preetha-Senthamilan/Swapping-two-values/assets/119390282/f29d3749-6b76-4aea-b567-675d8d16f717)
 
-![Screenshot 2023-09-05 004303](https://github.com/Preetha-Senthamilan/Swapping-two-values/assets/119390282/697cc7ad-11cb-4111-88e2-4849e7a093af)
 
 
 
