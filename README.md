@@ -18,6 +18,21 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by: PREETHA.S
+#RegisterNumber: 212222230110
+
+x,y=int(input()),int(input())
+temp=y
+y=x
+x=temp
+print("Swapped values are:",x,y)
+
+```
+# OUTPUT
+
+![Screenshot 2023-09-05 004303](https://github.com/Preetha-Senthamilan/Swapping-two-values/assets/119390282/697cc7ad-11cb-4111-88e2-4849e7a093af)
 
 
 
